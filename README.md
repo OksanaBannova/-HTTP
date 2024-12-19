@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/ba19fascrhul4wxn?svg=true)](https://ci.appveyor.com/project/OksanaBannova/http)
 
+![CI](https://github.com/<OksanaBannova>/<https://github.com/OksanaBannova/-HTTP>/actions/workflows/web.yml/badge.svg)
+
 [GitHub Pages](https://github.com/OksanaBannova/-HTTP)
 
 # Домашнее задание к занятию "7. Работа с HTTP"
